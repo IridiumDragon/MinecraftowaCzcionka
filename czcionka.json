@@ -1,9 +1,0 @@
-{
-    "spec": 1,
-    "name": "Minecraft PL Font Regular",
-    "previewText": "Taka czcionka do minecraft",
-    "main": {
-        "ggsans-Normal": "https://github.com/IridiumDragon/MinecraftowaCzcionka/blob/c995ea69bc45ef8c630c24a994d57bbbab1c4d31/minecraftplfont.ttf",
-        "NotoSans-Normal": "https://github.com/IridiumDragon/MinecraftowaCzcionka/blob/c995ea69bc45ef8c630c24a994d57bbbab1c4d31/minecraftplfont.ttf",
-    }
-}
